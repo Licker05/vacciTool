@@ -1,0 +1,2 @@
+# vacciTool
+一款基于struct2和hibernate的疫苗管理工具
